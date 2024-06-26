@@ -1,0 +1,5 @@
+Player1 2280
+Player2 520
+Player3 220
+Player4 90
+Player5 20
